@@ -1,0 +1,16 @@
+c:\users\tom\documents\visual studio 2015\Projects\Resultant\Resultant\bin\Debug\Resultant.exe.config
+c:\users\tom\documents\visual studio 2015\Projects\Resultant\Resultant\bin\Debug\Resultant.exe
+c:\users\tom\documents\visual studio 2015\Projects\Resultant\Resultant\bin\Debug\Resultant.pdb
+c:\users\tom\documents\visual studio 2015\Projects\Resultant\Resultant\obj\Debug\Resultant.csprojResolveAssemblyReference.cache
+c:\users\tom\documents\visual studio 2015\Projects\Resultant\Resultant\obj\Debug\MainWindow.g.cs
+c:\users\tom\documents\visual studio 2015\Projects\Resultant\Resultant\obj\Debug\App.g.cs
+c:\users\tom\documents\visual studio 2015\Projects\Resultant\Resultant\obj\Debug\Resultant_MarkupCompile.cache
+c:\users\tom\documents\visual studio 2015\Projects\Resultant\Resultant\obj\Debug\Resultant_MarkupCompile.lref
+c:\users\tom\documents\visual studio 2015\Projects\Resultant\Resultant\obj\Debug\MainWindow.baml
+c:\users\tom\documents\visual studio 2015\Projects\Resultant\Resultant\obj\Debug\Resultant.g.resources
+c:\users\tom\documents\visual studio 2015\Projects\Resultant\Resultant\obj\Debug\Resultant.Properties.Resources.resources
+c:\users\tom\documents\visual studio 2015\Projects\Resultant\Resultant\obj\Debug\Resultant.csproj.GenerateResource.Cache
+c:\users\tom\documents\visual studio 2015\Projects\Resultant\Resultant\obj\Debug\Resultant.exe
+c:\users\tom\documents\visual studio 2015\Projects\Resultant\Resultant\obj\Debug\Resultant.pdb
+c:\users\tom\documents\visual studio 2015\Projects\Resultant\Resultant\bin\Debug\Newtonsoft.Json.dll
+c:\users\tom\documents\visual studio 2015\Projects\Resultant\Resultant\bin\Debug\Newtonsoft.Json.xml
